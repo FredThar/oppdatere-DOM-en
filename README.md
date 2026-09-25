@@ -1,2 +1,2 @@
-# oblig-1
-obligatorisk oppgave 1
+# Oppdaterer-DOM-en
+besvarelse knyttet til oppgave 1.
